@@ -6,7 +6,7 @@ Weather app using openweathermap API for request and retrieve the data.
 ## how to use it ##
 
 Input the name of the city and click 'get weather'.
-It eill automatically display the temperature in celcius.
+It will automatically display the temperature in celcius.
 
 Thank you for your attention.
 
